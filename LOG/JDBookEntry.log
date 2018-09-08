@@ -1,0 +1,57 @@
+2018/07/22 16:40:35 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 16:40:36 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 16:43:15 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 16:43:16 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 16:53:28 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 16:53:29 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 16:54:05 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 16:54:06 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 17:02:24 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 17:02:24 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 17:15:41 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 17:15:41 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 17:20:21 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 17:20:22 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 17:20:37 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 17:20:37 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 17:24:14 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 17:26:52 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 17:26:52 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 17:33:41 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 17:33:41 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 17:43:10 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 17:43:10 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 17:45:52 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 17:45:53 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 17:46:39 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 17:46:40 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 17:49:52 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 17:49:53 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 17:50:27 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 17:50:28 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 17:59:03 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 18:08:07 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 18:08:08 INFO  ApplicationTest [main]: save book success ...
+2018/07/22 21:58:57 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 21:58:58 ERROR AbstractElasticsearchRepository [main]: failed to load elasticsearch nodes : org.elasticsearch.index.mapper.MapperParsingException: analyzer [IK_max_word] not found for field [author]
+2018/07/22 22:05:49 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 22:05:49 ERROR AbstractElasticsearchRepository [main]: failed to load elasticsearch nodes : org.elasticsearch.index.mapper.MapperParsingException: analyzer [IK_max_word] not found for field [author]
+2018/07/22 22:09:12 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 22:09:13 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 22:12:58 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 22:12:59 INFO  TransportClientFactoryBean [main]: Closing elasticSearch  client
+2018/07/22 22:17:00 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 22:17:57 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 22:23:17 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 22:29:17 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/22 22:36:42 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/23 07:15:23 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/23 07:35:33 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/23 07:39:03 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/23 14:44:26 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/23 14:51:00 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/23 15:11:30 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/23 18:01:48 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/23 22:12:01 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/23 22:15:29 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300
+2018/07/23 22:17:01 INFO  TransportClientFactoryBean [main]: adding transport node : localhost:9300

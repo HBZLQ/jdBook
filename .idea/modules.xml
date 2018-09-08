@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataEntry/DataEntry.iml" filepath="$PROJECT_DIR$/DataEntry/DataEntry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdBook.iml" filepath="$PROJECT_DIR$/jdBook.iml" />
+    </modules>
+  </component>
+</project>
